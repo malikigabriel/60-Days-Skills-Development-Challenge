@@ -64,3 +64,21 @@ Document findings.
 Escalate the incident if malicious activity is suspected.
 Linux and Windows administration
 Log analysis
+
+
+# Deepseek
+Day 4 done and dusted:
+1. python Conditionals (if/elif/else) was researched into deeply using articles and YouTube Videos.
+2. The practices tasks were done, and the extra challenge was also treated as well.
+3. Cybersecurity – Incident Response Lifecycle was studied using articles and YouTube Videos.
+4. I took notes and update my Github accordly.
+
+# chatGTP
+Day 4 done and dusted:
+1. Lists, Tuples, Dictionaries was done with practices on each.
+2. Project 1: Failed Login Analyzer was done and tested.
+3. Project 2: IP Address Inventory was done and tested.
+4. Nmap was researched into deeply using articles and YouTube Videos.
+5. I downloaded and installed Wireshark software. And also Capture my first packet trace.
+4. I took notes and update my Github accordly.
+
