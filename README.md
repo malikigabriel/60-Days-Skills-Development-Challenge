@@ -82,3 +82,23 @@ Day 4 done and dusted:
 5. I downloaded and installed Wireshark software. And also Capture my first packet trace.
 4. I took notes and update my Github accordly.
 
+
+# Deepseek
+Day 5 done and dusted:
+1. Python: Functions studied (articles + videos) was studied and practicsed.
+2. All 3 practice tasks completed.
+3. Extra challenge (security toolkit) completed.
+4. CIA Triad studied.
+5. Security controls studied
+6. Threat vs Vulnerability vs Risk studied
+7. Authentication factors studied
+8. I took notes and update my Github accordly.
+
+# chatGTP
+Day 5 done and dusted:
+1. Python: Functions studied (articles + videos) was studied and practicsed.
+2. Project 1: Login Report Generator was done and tested.
+3. Project 2: Network Device Inventory was done and tested.
+4. Wireshark Fundamentals researched into deeply using articles and YouTube Videos.
+5. I have created an account with TryHackMe.
+6. I took notes and update my Github accordly.
